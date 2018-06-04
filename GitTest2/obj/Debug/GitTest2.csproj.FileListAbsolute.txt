@@ -1,0 +1,2 @@
+C:\AirProductsLearning\SSIS\GitTest2\GitTest2\bin\Debug\GitTest2.exe.config
+C:\AirProductsLearning\GIT\Gits\GitTest2\GitTest2\bin\Debug\GitTest2.exe.config
