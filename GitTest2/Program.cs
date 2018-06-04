@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +13,8 @@ namespace GitTest2
             Console.WriteLine("This line was added with the laptop.");
             Console.WriteLine(“This line was added with the Mac”);
             Console.WriteLine("This is the initial version");
+
+            // This is an edit on the MAC.
         }
     }
 }
