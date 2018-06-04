@@ -1,0 +1,9 @@
+diff a/GitTest2/Program.cs b/GitTest2/Program.cs	(rejected hunks)
+@@ -15,6 +15,7 @@
+             Console.WriteLine("This is the initial version");
+ 
+             // This is an edit on the Laptop.
++            // This is an edit on the MAC.
+         }
+     }
+ }
