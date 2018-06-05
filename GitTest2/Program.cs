@@ -25,7 +25,7 @@ namespace GitTest2
             MAC Modified
 
 	    2018-06-05 Laptop 1
-
+	    2018-06-05 Laptop 2
             */
             Apple Modified
             Apple Modified 2
