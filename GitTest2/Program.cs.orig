@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitTest2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("This line was added with the laptop.");
+            Console.WriteLine(“This line was added with the Mac”);
+            Console.WriteLine("This is the initial version");
+
+            // This is an edit on the Laptop.
+            // This is an edit on the MAC.
+
+            // Another MAC modification
+            // Another Laptop modification
+
+            /*
+<<<<<<< HEAD
+            Laptop Modified
+=======
+            MAC Modified
+>>>>>>> 221274fd7c502e25135973f5d4ba828ef99cbfdf
+            */
+        }
+    }
+}
