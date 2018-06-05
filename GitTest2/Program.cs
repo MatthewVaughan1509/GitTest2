@@ -29,6 +29,7 @@ namespace GitTest2
             */
             Apple Modified
             Apple Modified 2
+            Apple Modified 3
         }
     }
 }
